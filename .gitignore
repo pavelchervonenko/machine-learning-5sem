@@ -22,9 +22,6 @@ __pycache__/
 *.c
 *.cpp
 
-# Avoid saving large cell outputs
-**/*.ipynb
-
 # Allow ONLY specific notebooks (remove '#' below if needed)
 # !notebooks/*.ipynb
 
