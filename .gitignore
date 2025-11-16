@@ -22,13 +22,6 @@ __pycache__/
 *.c
 *.cpp
 
-# -------------------------
-# Jupyter Notebook
-# -------------------------
-.ipynb_checkpoints/
-.jupyter/
-*.ipynb_convert/
-
 # Avoid saving large cell outputs
 **/*.ipynb
 
