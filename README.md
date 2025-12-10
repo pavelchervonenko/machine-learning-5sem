@@ -17,9 +17,13 @@
 ## Используемые технологии
 
 - Python 3.10+
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn   
-- Jupyter Notebook  
-
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- XGBoost
+- LightGBM
+- CatBoost
+- Optuna
